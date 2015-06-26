@@ -6,10 +6,10 @@
   "keywords": ["meteor", "social", "community", "chat"],
   "website": "http://rocket.chat",
   "env": {
-    "BUILDPACK_URL": "https://github.com/RocketChat/heroku-buildpack-meteor.git",
+    "BUILDPACK_URL": "https://github.com/gabrin/heroku-buildpack-meteor.git",
     "ROOT_URL": {
       "description": "The full URL of your Rocket.Chat app.",
-      "value": "https://<App Name>.herokuapp.com"
+      "value": "https://chatcentrpro.herokuapp.com"
     }
   },
   "addons": [
